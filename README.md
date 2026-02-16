@@ -29,6 +29,6 @@ Late-stage presentation and centre-level comparison.
 3. Data modeling & visualization
 
 
-# Data Privacy Statement
+### Data Privacy Statement
 This project uses a fully synthetic dataset created for portfolio demonstration.
 No patient-identifiable information is included.
