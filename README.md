@@ -11,16 +11,16 @@ The dashboard was built in Microsoft Power BI to analyze:
 4. Centre-level presentation trends
 
 # Dashboard Pages
-# 1️⃣ Executive Overview
+## 1️⃣ Executive Overview
 High-level KPIs and distribution summaries.
 
-# 2️⃣ Clinical Insights
+## 2️⃣ Clinical Insights
 Subtype vs stage analysis and decomposition tree.
 
-# 3️⃣ Population & Risk Patterns
+## 3️⃣ Population & Risk Patterns
 Age, parity, and breastfeeding trend analysis.
 
-# 4️⃣ Registry & Centre Performance
+## 4️⃣ Registry & Centre Performance
 Late-stage presentation and centre-level comparison.
 
 # Tools Used
